@@ -1,11 +1,13 @@
 ## I’m Kris-Peng
 - I'm an undergraduate student at UChicago.
-- I major in Psychology and minor in Data Science
+- I major in Psychology
 
 ## Most Used Languages
 - C++
 - Python
 - Matlab
+- R
+- Java
 
 ## My Experience
 - Machine Learning: TensorFlow
