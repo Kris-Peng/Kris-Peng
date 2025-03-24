@@ -7,7 +7,7 @@
 - Python
 - Swift
 - R
-- MatLab
+- MATLAB
 - Java
 
 ## My Experience
