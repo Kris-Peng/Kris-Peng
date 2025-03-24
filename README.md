@@ -5,8 +5,9 @@
 ## Most Used Languages
 - C++
 - Python
-- Matlab
+- Swift
 - R
+- MatLab
 - Java
 
 ## My Experience
