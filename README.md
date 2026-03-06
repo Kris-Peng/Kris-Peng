@@ -1,6 +1,5 @@
 ## I’m Kris-Peng
-- I'm an undergraduate student at UChicago.
-- I major in Psychology
+- I'm a Predoc at Harvard Business School.
 
 ## Most Used Languages
 - C++
